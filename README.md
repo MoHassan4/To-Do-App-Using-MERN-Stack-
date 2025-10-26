@@ -72,7 +72,9 @@ To-Do-App/
 ---
 
 ## 📸 Screenshots
-_Add some screenshots of your To-Do app UI here (optional)_
+![To-Do App UI](https://github.com/user-attachments/assets/9dbbabaa-4e36-4501-bcca-f0156e0fad21)
+![To-Do App UI](https://github.com/user-attachments/assets/f287b582-177f-4112-a642-f296c459489d)
+![To-Do App UI](https://github.com/user-attachments/assets/9ce3a894-f70e-4f46-8ad6-06cef7911540)
 
 ---
 
